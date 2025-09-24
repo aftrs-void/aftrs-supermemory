@@ -1,0 +1,30 @@
+[submodule "install-mcp"]
+	path = install-mcp
+	url = git@github.com:supermemoryai/install-mcp.git
+[submodule "supermemory-mcp"]
+	path = supermemory-mcp
+	url = git@github.com:supermemoryai/supermemory-mcp.git
+[submodule "apple-mcp"]
+	path = apple-mcp
+	url = https://github.com/supermemoryai/apple-mcp
+[submodule "markdowner"]
+	path = markdowner
+	url = https://github.com/supermemoryai/markdowner
+[submodule "cloudflare-saas-stack"]
+	path = cloudflare-saas-stack
+	url = https://github.com/supermemoryai/cloudflare-saas-stack
+[submodule "sdk-ts"]
+	path = sdk-ts
+	url = https://github.com/supermemoryai/sdk-ts.git
+[submodule "llm-bridge"]
+	path = llm-bridge
+	url = https://github.com/supermemoryai/llm-bridge
+[submodule "infinite-chat"]
+	path = infinite-chat
+	url = https://github.com/supermemoryai/infinite-chat
+[submodule "opensearch-ai"]
+	path = opensearch-ai
+	url = https://github.com/supermemoryai/opensearch-ai
+[submodule "backend-api-kit"]
+	path = backend-api-kit
+	url = https://github.com/supermemoryai/backend-api-kit
